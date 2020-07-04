@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\Currencyproject\bin\Debug\Currencyproject.exe.config
+C:\Users\DELL PRECISION\source\repos\Currencyproject\bin\Debug\Currencyproject.exe
+C:\Users\DELL PRECISION\source\repos\Currencyproject\bin\Debug\Currencyproject.pdb
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.exe
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.pdb
+C:\Users\DELL PRECISION\source\repos\Currencyproject\obj\Debug\Currencyproject.currencyConvert.resources
